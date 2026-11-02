@@ -35,9 +35,34 @@
 
 <br/>
 
-### 🚀 Featured Projects <sub>최신순</sub>
+### 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 온케어 스케줄</h3>
+      <p><b>정규 프로젝트 1</b> · 4인 팀 · 2026.09 ~ 10<br/>
+      <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>React</code></p>
+      <p>방문요양 수급자와 요양보호사를 연결하는 일정 관리 서비스. 추천·결원 관리 백엔드를 맡았습니다.</p>
+      <ul>
+        <li>필수 조건 4가지로 거른 뒤 100점 점수(거리 50, 근무량 30, 연속 담당 20)로 상위 3명 추천</li>
+        <li>방문 취소 시 같은 로직으로 대체 후보 재추천, React 관리자 화면 연동</li>
+        <li>삭제 API 외래키 500 오류를 소프트 삭제로 바꿔 근무 이력 보존</li>
+      </ul>
+      <a href="https://github.com/Hyeongjin3581/kdt2026-project1-teamproject">Repo 바로가기 →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 무인 장비 대여 플랫폼</h3>
+      <p><b>미니 프로젝트 2</b> · 팀<br/>
+      <code>Java</code> <code>JDBC</code> <code>MySQL</code></p>
+      <p>JDBC 기반 MVC 대여 시스템. 대여·반납을 맡았습니다.</p>
+      <ul>
+        <li>장비 상태 검사, 대여, 상태 변경 흐름 구현</li>
+        <li>반납 상태에 따라 대여가능 / 점검중 분기</li>
+      </ul>
+      <a href="https://github.com/Hyeongjin3581/kdt2026-mini2-teamproject">Repo 바로가기 →</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📅 Visit Reservation API</h3>
@@ -52,40 +77,15 @@
       <a href="https://github.com/Hyeongjin3581/visit-reservation-api">Repo 바로가기 →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 온케어 스케줄</h3>
-      <p><b>정규 프로젝트 1</b> · 4인 팀 · 2026.09 ~ 10<br/>
-      <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>React</code></p>
-      <p>방문요양 수급자와 요양보호사를 연결하는 일정 관리 서비스. 추천·결원 관리 백엔드를 맡았습니다.</p>
+      <h3>📝 Notes</h3>
+      <p>KDT 프로젝트 수업 정리 · 2026.07 ~ 12<br/>
+      <code>Notion</code></p>
+      <p>국비 과정 수업과 프로젝트를 날짜별로 정리한 노트입니다.</p>
       <ul>
-        <li>필수 조건 4가지로 거른 뒤 100점 점수(거리 50, 근무량 30, 연속 담당 20)로 상위 3명 추천</li>
-        <li>방문 취소 시 같은 로직으로 대체 후보 재추천, React 관리자 화면 연동</li>
-        <li>삭제 API 외래키 500 오류를 소프트 삭제로 바꿔 근무 이력 보존</li>
+        <li>HTML · CSS · JS부터 Java · DB, Spring · React까지 날짜별 수업 정리</li>
+        <li>미니 1 · 미니 2 · 정규 1 프로젝트별 담당 역할과 포트폴리오 정리</li>
       </ul>
-      <a href="https://github.com/Hyeongjin3581/kdt2026-project1-teamproject">Repo 바로가기 →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗑️ 센서스쿼드</h3>
-      <p><b>졸업작품</b> · 성결대학교 팀 · 2025.09 ~ 2026.11<br/>
-      <code>Raspberry Pi 4B</code> <code>TFLite</code> <code>OpenCV</code> <code>Python</code></p>
-      <p>쓰레기통 적재량을 원격으로 확인하는 IoT 청소 보조 앱. 하드웨어와 AI를 맡았습니다.</p>
-      <ul>
-        <li>적재량 5단계 분류 모델을 3차례 학습해 엣지(TFLite)에서 추론</li>
-        <li>판별 1회에 5프레임 평균, 신뢰도 60% 미만은 따로 표시해 오판 보완</li>
-        <li>판별 결과를 서버와 DB에 저장하고 앱 푸시 알림까지 연동</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 무인 장비 대여 플랫폼</h3>
-      <p><b>미니 프로젝트 2</b> · 팀<br/>
-      <code>Java</code> <code>JDBC</code> <code>MySQL</code></p>
-      <p>JDBC 기반 MVC 대여 시스템. 대여·반납을 맡았습니다.</p>
-      <ul>
-        <li>장비 상태 검사, 대여, 상태 변경 흐름 구현</li>
-        <li>반납 상태에 따라 대여가능 / 점검중 분기</li>
-      </ul>
-      <a href="https://github.com/Hyeongjin3581/kdt2026-mini2-teamproject">Repo 바로가기 →</a>
+      <a href="https://app.notion.com/p/KDT-7-6-12-28-39624243c2ee807593fce533ed30c01f">Notion 바로가기 →</a>
     </td>
   </tr>
 </table>
