@@ -69,13 +69,12 @@
     </td>
     <td width="50%" valign="top">
       <h3>📝 Notes</h3>
-      <p>KDT 2026 수업 · 개발 기록</p>
+      <p>KDT 프로젝트 수업 정리 (7/6 ~ 12/28) · Notion</p>
       <ul>
-        <li>HTML · CSS · JS → Java · DB → Spring · React 날짜별 정리</li>
-        <li>프로젝트 회고 · 면접 대비 정리</li>
+        <li>HTML · CSS · JS → Java · DB → Spring · React 날짜별 수업 정리</li>
+        <li>미니 1 · 미니 2 · 정규 1 프로젝트별 담당 역할 · 포트폴리오 정리</li>
       </ul>
-      <!-- TODO: 아래 href를 Notion 공개 링크로 바꾸기 -->
-      <a href="https://github.com/Hyeongjin3581?tab=repositories">Notes 바로가기 →</a>
+      <a href="https://app.notion.com/p/KDT-7-6-12-28-39624243c2ee807593fce533ed30c01f">Notion 바로가기 →</a>
     </td>
   </tr>
 </table>
@@ -98,5 +97,4 @@
 ### 📫 Contact
 
 - Email : [poll3581@naver.com](mailto:poll3581@naver.com)
-<!-- TODO: Notion 공개 링크가 생기면 아래 줄의 주석을 풀고 링크를 넣기 -->
-<!-- - Blog : [Notion](여기에-Notion-공개-링크) -->
+- Notion : [KDT 프로젝트 수업 정리](https://app.notion.com/p/KDT-7-6-12-28-39624243c2ee807593fce533ed30c01f)
