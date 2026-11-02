@@ -49,7 +49,7 @@
     </td>
     <td width="480" valign="top">
       <h3>🔐 무인 장비 대여 플랫폼</h3>
-      <p><b>미니 프로젝트 2</b> · 팀<br/>
+      <p><b>미니 프로젝트 2</b> · 4인 팀<br/>
       <code>Java</code> <code>JDBC</code> <code>MySQL</code></p>
       <p>JDBC 기반 MVC 대여 시스템, 대여·반납 담당</p>
       <ul>
