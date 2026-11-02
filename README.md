@@ -36,9 +36,9 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <h3>🏠 온케어 스케줄</h3>
-      <p><b>정규 프로젝트 1</b> · 4인 팀 · 2026.09 ~ 10<br/>
+      <p><b>정규 프로젝트 1</b> · 4인 팀<br/>
       <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>React</code></p>
       <p>방문요양 일정 관리 서비스, 추천·결원 관리 백엔드 담당</p>
       <ul>
@@ -47,9 +47,9 @@
       </ul>
       <a href="https://github.com/Hyeongjin3581/kdt2026-project1-teamproject">Repo 바로가기 →</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <h3>🔐 무인 장비 대여 플랫폼</h3>
-      <p><b>미니 프로젝트 2</b> · 팀 · 2026.08<br/>
+      <p><b>미니 프로젝트 2</b> · 팀<br/>
       <code>Java</code> <code>JDBC</code> <code>MySQL</code></p>
       <p>JDBC 기반 MVC 대여 시스템, 대여·반납 담당</p>
       <ul>
@@ -60,9 +60,9 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <h3>📅 Visit Reservation API</h3>
-      <p><b>개인 프로젝트</b> · 2026.10 ~ 진행 중<br/>
+      <p><b>개인 프로젝트</b> · 진행 중<br/>
       <code>Java 21</code> <code>Spring Boot 4.1</code> <code>JPA</code> <code>MySQL</code></p>
       <p>동시 요청에도 중복 배정 없이 예약을 확정하는 API</p>
       <ul>
@@ -71,9 +71,9 @@
       </ul>
       <a href="https://github.com/Hyeongjin3581/visit-reservation-api">Repo 바로가기 →</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <h3>📝 Notes</h3>
-      <p><b>정리 노트</b> · 2026.07 ~ 12<br/>
+      <p><b>정리 노트</b> · 개인<br/>
       <code>Notion</code></p>
       <p>국비 과정 수업과 프로젝트를 날짜별로 정리한 노트</p>
       <ul>
