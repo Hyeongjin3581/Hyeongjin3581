@@ -21,13 +21,10 @@
 
 <br/>
 
-### 🛠 Tech Stack
+### 🛠 경험 기술
 
-프로젝트에서 사용
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,python,tensorflow,opencv,raspberrypi,git,github&perline=13" alt="Java, Spring, MySQL, React, JavaScript, HTML, CSS, Python, TensorFlow, OpenCV, Raspberry Pi, Git, GitHub" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,python,tensorflow,opencv,raspberrypi,git,github&perline=13" alt="tech stack" />
-
-수업에서 학습 &nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket·SSE-4A5568?style=flat-square)
@@ -43,22 +40,21 @@
       <h3>🏠 온케어 스케줄</h3>
       <p><b>정규 프로젝트 1</b> · 4인 팀 · 2026.09 ~ 10<br/>
       <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>React</code></p>
-      <p>방문요양 수급자와 요양보호사를 연결하는 일정 관리 서비스. 추천·결원 관리 백엔드를 맡았습니다.</p>
+      <p>방문요양 일정 관리 서비스, 추천·결원 관리 백엔드 담당</p>
       <ul>
-        <li>필수 조건 4가지로 거른 뒤 100점 점수(거리 50, 근무량 30, 연속 담당 20)로 상위 3명 추천</li>
-        <li>방문 취소 시 같은 로직으로 대체 후보 재추천, React 관리자 화면 연동</li>
-        <li>삭제 API 외래키 500 오류를 소프트 삭제로 바꿔 근무 이력 보존</li>
+        <li>조건 필터와 100점 점수로 요양보호사 상위 3명 추천</li>
+        <li>외래키 삭제 오류를 소프트 삭제로 해결</li>
       </ul>
       <a href="https://github.com/Hyeongjin3581/kdt2026-project1-teamproject">Repo 바로가기 →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔐 무인 장비 대여 플랫폼</h3>
-      <p><b>미니 프로젝트 2</b> · 팀<br/>
+      <p><b>미니 프로젝트 2</b> · 팀 · 2026.08<br/>
       <code>Java</code> <code>JDBC</code> <code>MySQL</code></p>
-      <p>JDBC 기반 MVC 대여 시스템. 대여·반납을 맡았습니다.</p>
+      <p>JDBC 기반 MVC 대여 시스템, 대여·반납 담당</p>
       <ul>
-        <li>장비 상태 검사, 대여, 상태 변경 흐름 구현</li>
-        <li>반납 상태에 따라 대여가능 / 점검중 분기</li>
+        <li>장비 상태 검사부터 대여·반납까지 흐름 구현</li>
+        <li>반납 상태에 따라 대여가능·점검중 분기</li>
       </ul>
       <a href="https://github.com/Hyeongjin3581/kdt2026-mini2-teamproject">Repo 바로가기 →</a>
     </td>
@@ -68,22 +64,21 @@
       <h3>📅 Visit Reservation API</h3>
       <p><b>개인 프로젝트</b> · 2026.10 ~ 진행 중<br/>
       <code>Java 21</code> <code>Spring Boot 4.1</code> <code>JPA</code> <code>MySQL</code></p>
-      <p>온케어의 추천·배정 로직을 다시 설계해, 동시 요청에도 중복 배정 없이 예약을 확정하는 API</p>
+      <p>동시 요청에도 중복 배정 없이 예약을 확정하는 API</p>
       <ul>
-        <li>1주차: 엔티티 5개, 등록 API 7개, 공통 에러 응답, 테스트 11개</li>
-        <li>30분 슬롯 규칙과 유니크 제약, <code>@Version</code>으로 중복 배정 방지 설계</li>
-        <li>예정: N+1 측정과 개선, 락 방식 4가지 비교</li>
+        <li>1주차: 엔티티 5개, API 7개, 테스트 11개</li>
+        <li>유니크 제약과 낙관적 락으로 중복 배정 방지 설계</li>
       </ul>
       <a href="https://github.com/Hyeongjin3581/visit-reservation-api">Repo 바로가기 →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📝 Notes</h3>
-      <p>KDT 프로젝트 수업 정리 · 2026.07 ~ 12<br/>
+      <p><b>정리 노트</b> · 2026.07 ~ 12<br/>
       <code>Notion</code></p>
-      <p>국비 과정 수업과 프로젝트를 날짜별로 정리한 노트입니다.</p>
+      <p>국비 과정 수업과 프로젝트를 날짜별로 정리한 노트</p>
       <ul>
-        <li>HTML · CSS · JS부터 Java · DB, Spring · React까지 날짜별 수업 정리</li>
-        <li>미니 1 · 미니 2 · 정규 1 프로젝트별 담당 역할과 포트폴리오 정리</li>
+        <li>HTML부터 Spring·React까지 날짜별 수업 정리</li>
+        <li>프로젝트별 담당 역할과 포트폴리오 정리</li>
       </ul>
       <a href="https://app.notion.com/p/KDT-7-6-12-28-39624243c2ee807593fce533ed30c01f">Notion 바로가기 →</a>
     </td>
